@@ -8,7 +8,7 @@
 </head>
 	<body>
 		<form action="validate.html" method="post" >
-			USERNAME: <br>
+			USERNAME edited: <br>
 			<input type="text" name="username" />
 			<br>
 			Password: <br>
