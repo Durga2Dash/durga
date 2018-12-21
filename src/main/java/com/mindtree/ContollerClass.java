@@ -23,7 +23,7 @@ public class ContollerClass {
 		}
 		else
 		{
-			return new ModelAndView("message","message","Wrong Login Credentials");
+			return new ModelAndView("message","message","Wrong Login id and password");
 		}
 	}
 	
