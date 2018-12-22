@@ -10,3 +10,4 @@ trying again
 going to commit\
 checking sonarqube
 a new commit
+with artifactory
