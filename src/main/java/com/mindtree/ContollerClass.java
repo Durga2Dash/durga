@@ -10,7 +10,7 @@ import com.mindtree.entity.Project;
 import com.mindtree.entity.User;
 import com.mindtree.entity.UserCheck;
 
-@Controllerv
+@Controller
 public class ContollerClass {
 	
 	@RequestMapping(value="/validate",method=RequestMethod.POST)
@@ -32,7 +32,7 @@ public class ContollerClass {
 	{
 		return new ModelAndView("addEmp","message","");
 	}
-	dedf
+
 	@RequestMapping(value="/addEmployee",method=RequestMethod.POST)
 	public ModelAndView addEmployee(@Validated User user,Model model) {
 		System.out.println(user);
