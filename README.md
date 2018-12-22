@@ -7,4 +7,5 @@ now
 added polling scm
 why are u not working????????????
 trying again
-going to commit
+going to commit\
+checking sonarqube
