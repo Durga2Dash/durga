@@ -11,4 +11,3 @@ going to commit\
 checking sonarqube
 a new commit
 with artifactory
-the final commit
